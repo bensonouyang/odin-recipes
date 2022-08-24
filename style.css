@@ -1,0 +1,15 @@
+h1 {
+    background-color: thistle;
+    font-weight: 900;
+    font-size: 80px;
+    font-family: Garamond;
+    text-align: center;
+}
+
+.enchiladas,
+.dutchbaby,
+.ratatouille {
+    background-color: rgb(215, 248, 240);
+    font-weight: 300;
+    font-size: 24px;
+}

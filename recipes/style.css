@@ -1,0 +1,22 @@
+h1 {
+    background-color: thistle;
+    font-weight: 900;
+    font-size: 80px;
+    font-family: Garamond;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    font-size: 30px;
+    background-color: burlywood;
+}
+
+button {
+    background-color: rgb(145, 241, 145);
+}
